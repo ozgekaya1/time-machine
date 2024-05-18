@@ -1,123 +1,54 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
+<!DOCTYPE html>
+<html>
+<title>The review of "The Master and Margarita"</title>
+<style>
+    body {background-color: DarkKhaki;}
+    h1 {color: DarkSlateGray;}
+    p {color: blue;}
+img {
+  border: 8px solid #B22222;
 }
-```
+  </style>
+<body>
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+<h1 style="text-align:center;"font-size:30px;">The review of the book "The Master and Margarita"</h1>
 
-#### Header 4
+<header style=text-align:center;">
+<p style="color:OldLace;font-size:25px;text-align:center;"><b><u>The Master and Margarita by Mikhail Bulgakov </u><i>(Мастер и Маргарита)</i></b></p>
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+<p style="color: Brown;font-size:20px;background-color:OldLace">Depiction of Human Nature, Good, and Evil</p>
+<p style="color: Black; background-color:Wheat">Woland, the Devil in the book is an ambiguous character; he is like a human character. When it comes to his deeds, there is no clear distinction between good and bad. Here, the Devil is a meticulous observer of humanity, of contemporary Moscow and of ancient Jerusalem. Woland concludes that people of Moscow living in the 1930s and people of Jerusalem living in the times of Yeshua (Jesus) have the same qualities – the essence of human nature does not change even if the structure of the state changes – it is still impossible to transform a “human soul”. Times change, discoveries happen but human nature remains the same, no matter what political system or religion is in place.</p>
+<p>
+<p style="color: Black;background-color:Wheat">During Black Magic Debut Carnival in contemporary Moscow, there was a double queue, when one of Woland’s assistants rained down money on people. According to the ideology of the Soviet Union, people were supposed to be unconcerned with a personal gain, but the reality was often opposite as shown in the book.</p>
 
-##### Header 5
+<p style="color: Brown;font-size:20px;background-color:OldLace">Creative and Religious Freedom | the Importance of Words, Stories as the Foundation of the Civilisationv</p>
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+<p style="color: Black;background-color:Wheat">These famous words from The Master and Margarita: “Manuscripts do not burn” serve as a reminder of the power of stories over the oppression and terror. Words can transcend many spheres – can impact the course of history.  Writing is the expression of freedom which is the foundation of civilisation.</p>
 
-###### Header 6
+<p style="color: Brown;font-size:20px;background-color:OldLace">Moral Dilemmas under Totalitarian Regime</p>
+<p style="color: Black;background-color:Wheat">The Master and Margarita portrays a number of moral dilemmas faced by people living under the regime.
+The examples of these dilemmas are: Margarita going into pact with evil to save the Master; Margarita choosing compassion for Frieda over her love for the Master; again Margarita was married at the time when she met the Master but her husband was a part of the state (there is a mention that her husband was responsible for killing another person); and the Master did not stand up for his beliefs.
+Bulgakov points out to the tragedy of human existence where good and evil often coexist and the choice between two is not always an easy one and often it is an impossible choice.</p>
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+</header>
 
-### There's a horizontal rule below this.
+<center><img src="master.jpg" alt="The book cover illustration" title="Behemoth and Margarita" width="200" height="250">
+<p>
+<a href="https://www.amazon.com/Master-Margarita-Mikhail-Bulgakov/dp/0679760806" target="_blank" title="Prices from 22.99€">Here you can buy the book</a>
+<p>
 
-* * *
+<p style="color: Brown;font-size:20px;">Here is a quote from The Master and Margarita:</p>
 
-### Here is an unordered list:
+<blockquote cite="https://www.goodreads.com/work/quotes/876183">
+But would you kindly ponder this question: What would your good do if
+evil didn't exist, and what would the earth look like if all the shadows
+disappeared? After all, shadows are cast by things and people. Here is the
+shadow of my sword. But shadows also come from trees and living beings.
+Do you want to strip the earth of all trees and living things just because
+of your fantasy of enjoying naked light? You're stupid.
+</blockquote>
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+<a href="https://www.goodreads.com/work/quotes/876183?page=4" target="_blank" title="441 quotes"> Click here to read more quotes from The Master and Margarita</a>
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+</body>
+</html>
